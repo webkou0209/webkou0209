@@ -1,4 +1,4 @@
-### Hi 👋 ,I'm Koichi 
+### Hi 👋, I'm Koichi 
 
 - I'm a graduate student living inJapan
 - I’m currently learning WordPress and Python
