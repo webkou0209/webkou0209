@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Koichi 
 
-- I'm a graduate student living inJapan
-- I’m currently learning WordPress and Python
 <!--
 **webkou0209/webkou0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
